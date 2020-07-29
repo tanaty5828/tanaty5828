@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanaty5828&count_private=true&show_icons=true&theme=monokai" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tanaty5828&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaty5828"&theme=monokai />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaty5828"&theme=default />
 </a>
